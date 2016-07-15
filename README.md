@@ -1,2 +1,9 @@
 # php7-fpm-alpine
-added some extensions. based on official php image
+based on official php image.
+
+added extensions:
+- pdo_mysql
+- mysqli
+- mbstring
+- iconv-
+- mcrypt
