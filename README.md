@@ -5,5 +5,5 @@ added extensions:
 - pdo_mysql
 - mysqli
 - mbstring
-- iconv-
+- iconv
 - mcrypt
