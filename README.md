@@ -1,5 +1,5 @@
 # php7-fpm-alpine
-based on official php image.
+base-image:  [php7-fpm-alpine](https://hub.docker.com/_/php/)
 
 added extensions:
 - pdo_mysql
